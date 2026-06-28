@@ -1,0 +1,11 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder
+1,Male,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,None
+2,Female,29,Doctor,7.2,8,60,4,Normal,120/80,72,8200,None
+3,Male,35,Teacher,5.8,5,30,8,Obese,140/90,86,3100,Insomnia
+4,Female,41,Nurse,6.5,6,45,7,Overweight,135/88,82,5600,Sleep Apnea
+5,Male,32,Engineer,7.8,9,70,3,Normal,118/78,68,9800,None
+6,Female,50,Manager,5.9,5,25,9,Obese,145/95,90,2500,Sleep Apnea
+7,Male,45,Lawyer,6.2,6,38,7,Overweight,138/86,80,5000,Insomnia
+8,Female,26,Student,8.1,9,75,2,Normal,115/75,65,10500,None
+9,Male,38,Scientist,6.7,7,55,5,Normal,122/80,73,7600,None
+10,Female,48,Teacher,5.5,4,28,8,Obese,142/92,88,2900,Sleep Apnea
